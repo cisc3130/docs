@@ -2,11 +2,12 @@
 
 Travis CI is a continuous integration service used to build and test projects hosted on Github. We will use it in this course to automatically test the code you submit, though the grading will not be automatic.
 
-1. Go to travis-ci.com (not .org). Sign in with your github account.
+1. Go to your repository in github. (e.g. https://github.com/cisc3130/0-get-started-rivlev). In the url, replace "github" with "travis-ci" (e.g. https://travis-ci.com/cisc3130/0-get-started-rivlev). Go to that url.
 
-2. On the left of your profile page, you should see a list of the organizations you belong to. One of the organizations should be this course (e.g. cisc3130). Click on the course.
+2. If prompted, sign into Travis CI with your Github credentials.
 
-3. You should now see a list of repositories belonging to the organization for which you are an admin. Click the switch on each one to enable Travis CI for each repository.
+2. Click "Activate repository".
+
 
 4. Now, whenever you push a new commit, Travis CI will try to compile and run your code. You should get an email with the results of the build. Additionally, in your commit history, each commit will have a check or cross next to it indicating whether it has passed the tests. Finally, the pull request you submit as homework will show whether it is currently passing.
 
