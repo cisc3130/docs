@@ -1,0 +1,2 @@
+g++ helloworld.cpp
+./a.out
