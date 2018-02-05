@@ -1,0 +1,6 @@
+language: c++
+  
+script:
+ - g++ helloworld.cpp
+ - ./a.out
+ 
