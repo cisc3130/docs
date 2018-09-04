@@ -13,6 +13,8 @@ Github Classroom will create a *remote* repository for you that is seeded with s
 3. In the terminal, do
 
    ```git clone --recursive <THE_URL>```
+   
+* If you get the error message "Command not recognized", that means you don't have git installed on your machine. You can download it from [here](https://git-scm.com/downloads)
 
 ## Branch
 
