@@ -63,3 +63,6 @@ Click "Create pull request".
 In the subject line, write a tiny summary of your changes. In the body, fill out the pull request template. Make sure it includes your name and @rivlev. 
 
 Click "Create pull request". This will notify me of your submission.
+
+## Do not press the big green "Merge" button!
+This will close your pull request.
