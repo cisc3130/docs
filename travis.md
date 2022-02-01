@@ -2,7 +2,7 @@
 
 Travis CI is a continuous integration service used to build and test projects hosted on Github. We will use it in this course to automatically test the code you submit, though the grading will not be automatic.
 
-1. Go to your repository in github. (e.g. https://github.com/cisc3130/0-get-started-rivlev). In the url, replace "github" with "travis-ci" (e.g. https://travis-ci.com/cisc3130/0-get-started-rivlev). Go to that url.
+1. Go to your repository in github. (e.g. https://github.com/cisc3130/0-get-started-rivlev). In the url, replace "github" with "app.travis-ci.com/github" (e.g. https://app.travis-ci.com/github/cisc3130/0-get-started-rivlev). Go to that url.
 
 2. If prompted, sign into Travis CI with your Github credentials.
 
